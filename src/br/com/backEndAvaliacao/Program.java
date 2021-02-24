@@ -10,9 +10,9 @@ public class Program {
 		
 		UserController controller = new UserController();
 		
-		InterfacePrincipal intergaceInterfacePrincipal = new InterfacePrincipal(controller);
+		InterfacePrincipal interfacePrincipal = new InterfacePrincipal(controller);
 		
-		intergaceInterfacePrincipal.inicial();
+		interfacePrincipal.inicial();
 		
 
 	}
